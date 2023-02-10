@@ -17,6 +17,9 @@ function makeLoad() {
       margin: 0px;
       `;
       // image will not load//
+      const imgcontent = document.createElement("img");
+      imgcontent.src = "../images/background.png";
+      webBody.appendChild(imgcontent);
 
       // Content Container //
       const content = document.createElement("div");
