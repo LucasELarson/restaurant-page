@@ -1,4 +1,5 @@
 import { setHome } from "./home";
+import "../images/background.png";
 
 let nav1, nav2, nav3, midpan;
 

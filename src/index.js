@@ -3,6 +3,7 @@ import { makeLoad } from "./pageload.js";
 import { midHome, setHome } from "./home.js";
 import { midContact, setContact } from "./contact.js";
 import { midMenu, setMenu } from "./menu.js";
+import "../images/background.png";
 
 makeLoad();
 
