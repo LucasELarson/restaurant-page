@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LucasELarson/restaurant-page#readme",
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "url-loader": "^4.1.1",
     "webpack-cli": "^5.0.1"
   }

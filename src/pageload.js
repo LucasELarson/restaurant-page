@@ -24,7 +24,6 @@ function makeLoad() {
       content.style.cssText = `
       display: grid;
       margin: 0px;
-      background-image: url("../images/background.png")
       background-size: 100vw 100vh;
       width: 100vw;
       height: 100vh;
