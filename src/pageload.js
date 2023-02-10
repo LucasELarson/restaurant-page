@@ -1,6 +1,5 @@
 import { setHome } from "./home";
 import "../images/background.png";
-
 let nav1, nav2, nav3, midpan;
 
 function makeLoad() {
@@ -13,7 +12,7 @@ function makeLoad() {
       width: 100vw;
       height: 100vh;
       margin: 0px;
-      background-image: url(../images/background.png); 
+      background-image: url('../images/background.png'); 
       background-size: 100vw 100vh;
       margin: 0px;
       `;
