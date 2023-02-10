@@ -13,10 +13,11 @@ function makeLoad() {
       width: 100vw;
       height: 100vh;
       margin: 0px;
-      background-image: url(../images/background.png);
+      background-image: url(../images/background.png); 
       background-size: 100vw 100vh;
       margin: 0px;
       `;
+      // image will not load//
 
       // Content Container //
       const content = document.createElement("div");
